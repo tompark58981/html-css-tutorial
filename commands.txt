@@ -1,0 +1,8 @@
+git init
+git remote add origin git@github.com:{누나 github username}/{repo name}
+
+[
+    git add .
+    git commit -m "{커밋 메시지}"
+    git push -u origin master
+]
